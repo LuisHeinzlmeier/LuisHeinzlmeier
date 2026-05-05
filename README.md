@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I’m Luis! 👋
+
+I am a Bioinformatics student at LMU and TUM, graduating in around October this year. I am particularly fascinated by how modern bioinformatics enables the analysis of complex biological systems and translates data-driven insights into advances in health and medicine. I’m currently working on ...
+- 📖 **[theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices):** A book for single-cell sequencing analysis widely used by bioinformaticians, data scientists, and biologists.
+- 👨‍🎓 **[nf-core/scspatialmap](https://github.com/nf-core/proposals/issues/110):** A benchmarking pipeline for evaluating single-cell to spatial mapping tools.
+- 🍏 **[nf-core/hadge](https://github.com/nf-core/hadge):** A donor deconvolution pipeline for single-cell data.
 
 <!--
 **LuisHeinzlmeier/LuisHeinzlmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
